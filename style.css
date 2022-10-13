@@ -1,0 +1,57 @@
+body{
+   
+    
+}
+
+.container{
+    display: flex;
+}
+
+.parent{
+    display: flex;
+}
+
+.a{
+    height: 20px;
+    width: 20px;
+    background-color: azure;
+    
+}
+
+.b{
+    border-radius: 100%;
+    pa
+}
+
+.third_div{
+    border: 2px black solid;
+    background-color: rgb(209, 195, 195);
+    color: black;
+    border-radius: 40pt;
+    margin: 5px;
+
+}
+
+.all{
+    background-color: aliceblue;
+    color: black;
+}
+
+.p{
+    color: black;
+}
+
+.bordersearch{
+   display: flex;
+
+}
+
+#left{
+    float: left;
+    margin-left: 5%;
+}
+
+#right{
+    float: right;
+    margin-right: 7%;
+}
